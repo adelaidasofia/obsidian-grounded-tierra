@@ -1,5 +1,18 @@
 # Grounded Tierra — An Obsidian Theme
 
+
+<!-- mycelium-badges:start -->
+
+<p>
+  <a href="https://github.com/adelaidasofia/obsidian-grounded-tierra/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/adelaidasofia/obsidian-grounded-tierra?color=blue"></a>
+  <a href="https://github.com/adelaidasofia/obsidian-grounded-tierra/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adelaidasofia/obsidian-grounded-tierra?color=eab308"></a>
+  <a href="https://github.com/adelaidasofia/obsidian-grounded-tierra/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/adelaidasofia/obsidian-grounded-tierra"></a>
+  <a href="https://github.com/adelaidasofia/obsidian-grounded-tierra/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/adelaidasofia/obsidian-grounded-tierra"></a>
+  <a href="https://myceliumai.co"><img alt="Built by Mycelium AI" src="https://img.shields.io/badge/built_by-Mycelium_AI-15B89A"></a>
+</p>
+
+<!-- mycelium-badges:end -->
+
 A warm, organic theme for writers and builders. Designed for long writing sessions, second brains, and people who care about how their tools feel.
 
 ## Philosophy
