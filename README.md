@@ -19,7 +19,7 @@ A warm, organic theme for writers and builders. Designed for long writing sessio
 
 Most dark themes are cold. Most light themes are sterile. Grounded Tierra is neither.
 
-**Light mode** feels like morning light in a Bogota apartment — warm cream backgrounds, forest green text, coral accents that draw your eye without demanding it.
+**Light mode** feels like morning light in a warm apartment — warm cream backgrounds, forest green text, coral accents that draw your eye without demanding it.
 
 **Dark mode** is the same room after sunset — warm walnut brown-blacks, sage green headings, ember-glow coral. Not a terminal. A writer's desk at 1am.
 
@@ -58,7 +58,7 @@ Most dark themes are cold. Most light themes are sterile. Grounded Tierra is nei
 
 ## Credits
 
-Designed by [Adelaida Diaz-Roa](https://planwithonde.com) with [Claude](https://claude.ai).
+Designed by [@adelaidasofia](https://github.com/adelaidasofia) with [Claude](https://claude.ai).
 
 Inspired by the Claude Code interface aesthetic. Named in spanglish because that's how we talk.
 
